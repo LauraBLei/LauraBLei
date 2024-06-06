@@ -24,6 +24,15 @@ My name is Laura Lei. Take a look at my portfolio👉 [Visit leidev.net](https:/
 ## Web Development Tools:
 
 <ul>
+   <li>Figma</li>
+   <li>Visual Studio Code</li>
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>Javascript</li>
+   <li>Tailwind</li>
+</ul>
+
+<ul>
    <li style="display: flex;"><p>HTML</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/></li>
     <li style="display: flex;"> <p>CSS</p><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/></li>
    <li style="display: flex;"> <p>Javascript</p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/></li>
