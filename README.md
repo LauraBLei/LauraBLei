@@ -37,7 +37,7 @@ My name is Laura Lei. Take a look at my portfolio👉 [Visit leidev.net](https:/
 Wanna collab? or got anything else to aks? 
 
 Contact me: 
-<a href="https://www.linkedin.com/in/laura-lei-860190268/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="100" height="100">
+<a href="https://www.linkedin.com/in/laura-lei-860190268/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40" height="40">
 </a>
 
 <!--
