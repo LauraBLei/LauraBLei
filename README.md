@@ -34,9 +34,8 @@ My name is Laura Lei. Take a look at my portfolio👉 [Visit leidev.net](https:/
 
 ## Contact Me!
 
-Wanna collab? or got anything else to aks? 
+Wanna collab? or got anything else to ask? feel free to contact me!
 
-Contact me: 
 <a href="https://www.linkedin.com/in/laura-lei-860190268/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40" height="40">
 </a>
 
