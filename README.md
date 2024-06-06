@@ -32,6 +32,13 @@ My name is Laura Lei. Take a look at my portfolio👉 [Visit leidev.net](https:/
    <li>Tailwind</li>
 </ul>
 
+## Contact Me!
+
+Wanna collab? or got anything else to aks? 
+
+Contact me: 
+<a href="https://www.linkedin.com/in/laura-lei-860190268/" target="_blank">![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
+</a>
 
 <!--
 **LauraBLei/LauraBLei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
