@@ -28,8 +28,9 @@ My name is Laura Lei. Take a look at my portfolio👉 [Visit leidev.net](https:/
    <li>Visual Studio Code</li>
    <li>HTML</li>
    <li>CSS</li>
-   <li>Javascript</li>
+   <li>Javascript/Typescript</li>
    <li>Tailwind</li>
+   <li>React</li>
 </ul>
 
 ## Contact Me!
