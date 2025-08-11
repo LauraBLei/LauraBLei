@@ -1,55 +1,31 @@
+## Hi there 👋  
 
-## Hi there 👋 
+My name is Laura Lei. Take a look at my portfolio 👉 [Visit leidev.net](https://leidev.net/)  
 
-My name is Laura Lei. Take a look at my portfolio👉 [Visit leidev.net](https://leidev.net/)
+## About me!  
 
-## About me!
+- 🏔️ Based in Bergen, Norway.  
+- 🎓 Recently graduated with a Higher Professional Degree in Front-End Development from Noroff.  
+- 💻 Currently working on a freelance client project, collaborating on a Unity game with former classmates, and building a website with my husband while exploring Supabase.  
+- 🔧 Skilled in React, Tailwind, JavaScript/TypeScript, and more.  
+- 🕹️ Game development first sparked my interest in coding, inspiring me to create my own projects and keep learning.  
+- 📜 *"The will to want, creates the ability to act"* — a quote that reminds me of my late father and fuels my dedication to mastering new skills and overcoming challenges.  
 
-- 🏔️ I am based in Bergen, Norway.
+## Web Development Tools  
 
-- 📖 I am currently studdying online at Noroff to learn a bit more about Front-End Developing. 
+- 🖌️ Figma  
+- 🖥️ Visual Studio Code  
+- 🌐 HTML / CSS  
+- ⚡ JavaScript / TypeScript  
+- 🎨 Tailwind  
+- ⚛️ React  
+- 🔄 Next.js  
+- 🚀 Vite  
+- 🔗 Git & GitHub  
+- 🗄️ Supabase  
 
-- 💡I am currently trying to learn React, SCSS and Typescript in my free time!
+## Contact Me!  
 
-- 🕹️ When i am not coding, i enjoy gaming quite a lot!
+Wanna collab or have a question? Feel free to contact me!  
 
-- 🛠️ Game Development was the first thing that got me into coding, it made me wanna learn more so i could one day create my own game!
-
-- 📜 "*The will to want, creates the ability to act*" 
-   This quote reminded me of my late father. 
-    His philosophy has guided my career, driving me to master new skills, lead projects, and overcome challenges. 
-    My strong work ethic and commitment to achieving goals make me a valuable asset, ready to contribute passionately to your team
-
-## Web Development Tools:
-
-<ul>
-   <li>Figma</li>
-   <li>Visual Studio Code</li>
-   <li>HTML</li>
-   <li>CSS</li>
-   <li>Javascript/Typescript</li>
-   <li>Tailwind</li>
-   <li>React</li>
-</ul>
-
-## Contact Me!
-
-Wanna collab? or got anything else to ask? feel free to contact me!
-
-<a href="https://www.linkedin.com/in/laura-lei-860190268/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40" height="40">
-</a>
-
-<!--
-**LauraBLei/LauraBLei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/laura-lei-860190268/)  
