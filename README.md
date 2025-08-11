@@ -1,4 +1,3 @@
-![Image](https://github.com/LauraBLei/LauraBLei/blob/main/mig.png)
 
 ## Hi there 👋 
 
