@@ -27,5 +27,3 @@ My name is Laura Lei. Take a look at my portfolio 👉 [Visit leidev.net](https:
 ## Contact Me!  
 
 Wanna collab or have a question? Feel free to contact me!  
-
-[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/laura-lei-860190268/)  
